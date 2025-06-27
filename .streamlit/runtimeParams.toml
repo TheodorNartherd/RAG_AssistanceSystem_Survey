@@ -1,1 +1,2 @@
-
+db_mono = "Chinook"
+current_tbl = "PlaylistTrack"
